@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](draft-screenshot)
+![Practice Draft][draft-screenshot]
 
 To learn modeling and threejs, this 3d room practice is started. And the life-cylcle of whole engineering and work will be recorded here.
 
@@ -87,7 +87,7 @@ The whole practice will be including blew parts:
 ### Built With
 
 * [![Vue][Vue.js]][Vue-url]
-* [![ThreeJS][threejs.org]][threejs-url]
+* [![ThreeJS][Three.js]][threejs-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -144,12 +144,10 @@ Your Name  - ppzhuo@126.com
 
 Project Link: [https://github.com/AtticusLv/3D-room-practice](https://github.com/AtticusLv/3D-room-practice)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 
 
@@ -170,5 +168,5 @@ Project Link: [https://github.com/AtticusLv/3D-room-practice](https://github.com
 [Next-url]: https://nextjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
-[threejs.org]: https://threejs.org/
+[Three.js]: https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColore=grey
 [threes-url]: https://threejs.org/
