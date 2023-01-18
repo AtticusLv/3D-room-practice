@@ -90,8 +90,6 @@ The whole practice will be including blew parts:
 * [![ThreeJS][Three.js]][threejs-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
@@ -169,4 +167,4 @@ Project Link: [https://github.com/AtticusLv/3D-room-practice](https://github.com
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Three.js]: https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColore=grey
-[threes-url]: https://threejs.org/
+[threejs-url]: https://threejs.org/
