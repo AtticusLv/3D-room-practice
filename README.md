@@ -88,6 +88,8 @@ The whole practice will be including blew parts:
 
 * [![Vue][Vue.js]][Vue-url]
 * [![ThreeJS][Three.js]][threejs-url]
+* [![SpringWebFlux][Spring-webflux]][spring-webflux-url]
+* [![Blender][blender]][blender-url]
 
 
 
@@ -100,7 +102,12 @@ The whole practice will be including blew parts:
   - [ ] Web 3D(ThreeJS)
   - [ ] Web Framework(VueJS)
 - [ ] 2. Engineering
-  - [ ] 
+  - [ ] Modeling
+    - [ ] a room or museum for exhibition
+    - [ ] ui dashboard for tapping, which includes title, description and some images
+  - [ ] fontend work
+  - [ ] backend work
+  - [ ] **TODO**
 - [ ] 3. Deployment
     - [ ] Dockerfile
     - [ ] Build and deploy frontend
@@ -166,5 +173,9 @@ Project Link: [https://github.com/AtticusLv/3D-room-practice](https://github.com
 [Next-url]: https://nextjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
-[Three.js]: https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColore=grey
+[Three.js]: https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs
 [threejs-url]: https://threejs.org/
+[Spring-webflux]: https://img.shields.io/badge/spring.webflux-000000?style=for-the-badge&logo=spring
+[spring-webflux-url]: https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html
+[blender]: https://img.shields.io/badge/blender-000000?style=for-the-badge&logo=blender
+[blender-url]: https://www.blender.org/
