@@ -98,7 +98,10 @@ The whole practice will be including blew parts:
 ## Roadmap
 
 - [ ] 1. Basic Knowledge Learning
-  - [ ] Modeling(Blender)
+  - [x] Modeling(Blender)
+  
+    ![rendered image](model/render-image.png)
+
   - [ ] Web 3D(ThreeJS)
   - [ ] Web Framework(VueJS)
 - [ ] 2. Engineering
